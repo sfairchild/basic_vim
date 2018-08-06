@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "VIM",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "sfairchild",
+    "githubRepository": "basic_vim"
+  }
+}
