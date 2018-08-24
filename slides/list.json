@@ -1,25 +1,44 @@
 [
-  "xkcd.md",
-    {
-        "filename": "intro.md",
-        "attr": {
-            "id": "intro"
-        }
-    },
-    {
-        "filename": "agenda.md",
-        "attr": {}
-    },
-    {
-        "filename": "why.md",
-        "attr": {
-          "id": "why"
-        }
-    },
-    {
-        "filename": "history.md",
-        "attr": {
-          "id": "history"
-        }
+  {
+    "filename": "xkcd.md",
+    "attr": {
+      "id": "xkcd"
     }
+  },
+  {
+    "filename": "intro.md",
+    "attr": {
+      "id": "intro"
+    }
+  },
+  {
+    "filename": "agenda.md",
+    "attr": {
+
+    }
+  },
+  {
+    "filename": "why.md",
+    "attr": {
+      "id": "why"
+    }
+  },
+  {
+    "filename": "history.md",
+    "attr": {
+      "id": "history"
+    }
+  },
+  {
+    "filename": "vim_mindset.md",
+    "attr": {
+      "id": "mindset"
+    }
+  },
+  {
+    "filename": "first_commands.md",
+    "attr": {
+      "id": "basic_movements"
+    }
+  }
 ]

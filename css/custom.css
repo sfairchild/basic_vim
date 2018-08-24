@@ -1,3 +1,11 @@
+#xkcd {
+  padding: 0px;
+  background-image: url("../resources/xkcd_real_programmers.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain; }
+
 #intro img {
   background: none;
   border: none;
@@ -12,3 +20,6 @@
 #why table tr td {
   border: none;
   border-bottom: none; }
+
+#history ul {
+  list-style-type: disc; }
