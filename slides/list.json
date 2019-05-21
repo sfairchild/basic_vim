@@ -40,5 +40,12 @@
     "attr": {
       "id": "basic_movements"
     }
+  },
+  {
+    "filename": "registers.md",
+    "attr": {
+      "id": "registers"
+    }
   }
+
 ]
